@@ -1,0 +1,7 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+Invoice_Date:128,0,0::
+Invoice_Number:0,128,0::
+GSTIN_vendor:128,128,0::
+Vendor_Name:0,0,128::
+Due_Date:128,0,128::
